@@ -22,5 +22,12 @@
             "request": "launch",
             "mainClass": "TesterArrayCharOps"
         },
+        {
+            "type": "java",
+            "name": "Run Primes",
+            "request": "launch",
+            "mainClass": "Primes",
+            "args": "20"
+        }
     ]
 }
