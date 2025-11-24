@@ -28,6 +28,18 @@
             "request": "launch",
             "mainClass": "Primes",
             "args": "20"
+        },
+        {
+            "type": "java",
+            "name": "Run MyString",
+            "request": "launch",
+            "mainClass": "MyString"
+        },
+        {
+            "type": "java",
+            "name": "Run TesterMyString",
+            "request": "launch",
+            "mainClass": "TesterMyString"
         }
     ]
 }
