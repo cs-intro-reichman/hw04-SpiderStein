@@ -40,6 +40,12 @@
             "name": "Run TesterMyString",
             "request": "launch",
             "mainClass": "TesterMyString"
+        },
+        {
+            "type": "java",
+            "name": "Run KeywordsDetector",
+            "request": "launch",
+            "mainClass": "KeywordsDetector"
         }
     ]
 }
